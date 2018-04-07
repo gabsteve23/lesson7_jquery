@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(04 06, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gabriel Gomez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The goal of this assignment was to create a recipe display application)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://gabsteve23.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One concept that I learned to use more properly this assignment was using lists)
+2. (Another lesson I learned in this assignment was how to allow for the expansion of lists)
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
